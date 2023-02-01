@@ -37,10 +37,8 @@
 
 <br/>
 
-<a href="https://github.com/coolfishstudio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolfishstudio&theme=buefy&show_icons=true" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/coolfishstudio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolfishstudio&theme=buefy&layout=compact" />
-</a>
+<div>
+<span><img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolfishstudio&theme=buefy&show_icons=true&hide_border=true" /></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolfishstudio&theme=buefy&layout=compact&hide_border=true" /></span>
+</div>

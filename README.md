@@ -42,3 +42,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolfishstudio&theme=buefy&layout=compact&hide_border=true" /></span>
 </div>
+
+![](https://raw.githubusercontent.com/coolfishstudio/coolfishstudio/main/assets/github-contribution-grid-snake.svg)
